@@ -11064,6 +11064,7 @@ body {
 }
 
 .masthead {
+  font-family: "Courier Prime", monospace;
   position: relative;
   width: 100%;
   height: auto;
